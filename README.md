@@ -1,4 +1,4 @@
-### Hi, I’m <p style="color:blue">@BhumitRohilla</p> ###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=47F713&width=435&lines=Hello+there....+;My+Name+is+Bhumit)](https://git.io/typing-svg)
 
 I am currenty learning new things.
 </br>
