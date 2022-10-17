@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @BhumitRohilla
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android project
-- 📫 How to reach me email bhumit73rohilla@gmail.com
 
-<!---
-BhumitRohilla/BhumitRohilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currenty learning new things.
+-Android Development Native Kotlin
+-QT
+
+[![Bhumti's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
