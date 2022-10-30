@@ -6,7 +6,7 @@ I am currenty learning new things.
 </br>
 -QT
 
-[![Bhumti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhumitRohilla)](https://github.com/BhumitRohilla/github-readme-stats)
+[![Bhumti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhumitRohilla&theme=radical)](https://github.com/BhumitRohilla/github-readme-stats)
 </br>
 </br>
 
